@@ -27,3 +27,5 @@ for i in l:
     out_using_set.add(i)
 
 print(out_using_set)
+
+print(set(l))
